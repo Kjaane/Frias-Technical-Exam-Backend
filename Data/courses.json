@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development Fundamentals",
+    "category": "Development",
+    "instructor": "Maya Chen",
+    "duration": "4h 20m",
+    "level": "Beginner",
+    "description": "Build a responsive website.",
+    "color": "from-blue-600 to-cyan-500",
+    "icon": "</>",
+    "lessons": [
+      "Welcome to the web",
+      "HTML: structure your pages"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Essentials",
+    "category": "Development",
+    "instructor": "Liam Parker",
+    "duration": "5h 05m",
+    "level": "Beginner",
+    "description": "Learn core JavaScript concepts to make your pages interactive.",
+    "color": "from-yellow-400 to-orange-500",
+    "icon": "JS",
+    "lessons": [
+      "Variables & Types",
+      "Functions & Scope",
+      "DOM Manipulation"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "React for Beginners",
+    "category": "Frontend",
+    "instructor": "Sofia Martinez",
+    "duration": "6h 10m",
+    "level": "Intermediate",
+    "description": "Build modern UI components using React and hooks.",
+    "color": "from-cyan-400 to-blue-500",
+    "icon": "⚛",
+    "lessons": [
+      "Intro to JSX",
+      "Component State",
+      "Using React Hooks"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Node.js & Express API Basics",
+    "category": "Backend",
+    "instructor": "Ethan Walker",
+    "duration": "3h 45m",
+    "level": "Intermediate",
+    "description": "Create RESTful APIs with Node.js and Express.",
+    "color": "from-emerald-500 to-lime-400",
+    "icon": "🟩",
+    "lessons": [
+      "Setting up Express",
+      "Routing & Middleware",
+      "Connecting to a Database"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Fullstack GraphQL with Node",
+    "category": "Backend",
+    "instructor": "Aisha Patel",
+    "duration": "4h 55m",
+    "level": "Advanced",
+    "description": "Design and build GraphQL APIs with Apollo Server and Node.",
+    "color": "from-purple-600 to-pink-500",
+    "icon": "{ }",
+    "lessons": [
+      "GraphQL Schema Design",
+      "Resolvers & Context",
+      "Authentication with JWT"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Database Design with SQLite",
+    "category": "Data",
+    "instructor": "Noah Kim",
+    "duration": "2h 30m",
+    "level": "Beginner",
+    "description": "Understand relational modeling and SQL using SQLite.",
+    "color": "from-slate-600 to-slate-400",
+    "icon": "DB",
+    "lessons": [
+      "Tables & Relationships",
+      "Writing SQL Queries",
+      "Migrations & Schema Changes"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "TypeScript for JavaScript Developers",
+    "category": "Development",
+    "instructor": "Emily Johnson",
+    "duration": "3h 15m",
+    "level": "Intermediate",
+    "description": "Add static typing to your JavaScript apps with TypeScript.",
+    "color": "from-blue-700 to-indigo-500",
+    "icon": "TS",
+    "lessons": [
+      "Types & Interfaces",
+      "Generics",
+      "Working with TypeScript in Node & React"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "API Security & JWT",
+    "category": "Security",
+    "instructor": "Grace Lee",
+    "duration": "3h 40m",
+    "level": "Advanced",
+    "description": "Secure your APIs with authentication, authorization, and JWT.",
+    "color": "from-rose-500 to-red-500",
+    "icon": "🔐",
+    "lessons": [
+      "OAuth vs JWT",
+      "Implementing Login Flows",
+      "Role-based Access Control"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Git & GitHub Workflow",
+    "category": "Tooling",
+    "instructor": "Daniel Rivera",
+    "duration": "2h 05m",
+    "level": "Beginner",
+    "description": "Use Git and GitHub to manage code and collaborate.",
+    "color": "from-gray-700 to-gray-500",
+    "icon": "⎇",
+    "lessons": [
+      "Git Basics",
+      "Branching & Merging",
+      "Pull Requests & Code Reviews"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "courses-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SQLite-backed Express API for course management",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
